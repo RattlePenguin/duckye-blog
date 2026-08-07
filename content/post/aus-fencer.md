@@ -1,0 +1,68 @@
++++
+draft = true
++++
+
+## Introduction
+
+insert picture of fencing here
+
+Fencing is an interesting sport.
+First, you realise that you've never actually used your legs in your life.
+Then, you spend years learning proper footwork, shedding blood and sweat and
+incurring perpetual knee pain.
+Finally, once you feel like you're getting pretty good,
+you get destroyed by a kid 7 years younger than you at your first competition.
+
+While I have an amazing ability to cry about fencing for hours,
+I'm not really here to talk about that.
+
+## Fencing
+
+You may not know this, but fencing is a sport played between three people.
+Two are fencers, and the third is the referee.
+The referee plays a significant role in determining which fencer is awarded
+the point, as well as keeping track of score and penalties.
+This is normally done by looking at an electric scoreboard which lights up
+when either fencer lands a hit, and using a remote to increment scores.
+
+insert picture of favero
+
+The issue is, for many clubs buying scoring kits can cost upwards of hundreds
+if not thousands of dollars.
+There aren't many ways to circumvent this if you want a true fencing experience,
+however a widely accepted practice is to fence unconnected, or to buy just
+the reels and lights.
+
+Fencing unconnected is a last resort, but with a good referee you can make
+it work.
+The key is for both fencers to be honest about their touches, which makes
+it perfect for club sessions.
+Referees here can either use their fingers, or edit a text file on their phone
+to keep score.
+As you might probably guess, fingers are barely reliable.
+A text file is definitely a step up, but not without room for improvement!
+
+The bare minimum most would consider is a set of reels and a light up box.
+This at least guarantees that when a touch is made, a light signal appears.
+
+## Problems
+
+| Problem | Solution |
+| -------------- | --------------- |
+| If referees use their hands to keep score, they may lose track. | Provide an accessible UI on their phone to store bout information. |
+| Bouts in practice sessions don't get stored due to inconvenience, which could be useful to spot weaknesses and progress. | Automatically store finished bouts into a database, aggregating stats to give fencers a profile. |
+
+## Tech Overview and Stack
+
+I decided to use C++ for our backend services, not because it was the most suitable
+but because I am currently trying to master it.
+If I didn't want to bother with linking external dependencies and libraries,
+then C#, Java or Go may be more worthwhile.
+Many high performance web server stacks still use C++ frameworks, but we
+likely won't observe the benefits of such speed.
+C++ might pay off in the future if I decide to extend this project into the
+low-latency fencing equipment hardware.
+
+For the server side, I used Sqlite3[]() and SqliteCpp[](),
+Crow[](), and nlohmann/json[]()
+to manage the database, HTTP server and API.
