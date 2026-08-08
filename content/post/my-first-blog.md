@@ -34,4 +34,5 @@ Yeet.
 - Blog as much as possible. Don't be afraid of what others think.
 - Share my blog with others. I don't want this to be a diary,
 I want to show others who I am and what I've done.
--
+- Review my blog posts after some time. Setting and forgetting
+thoughts is fine, but come back to remember why you wrote in the first place.
