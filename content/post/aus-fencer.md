@@ -23,27 +23,33 @@ Two are fencers, and the third is the referee.
 The referee plays a significant role in determining which fencer is awarded
 the point, as well as keeping track of score and penalties.
 This is normally done by looking at an electric scoreboard which lights up
-when either fencer lands a hit, and using a remote to increment scores.
+when either fencer lands a hit, and using a remote to interact with it.
 
 insert picture of favero
 
 The issue is, for many clubs buying scoring kits can cost upwards of hundreds
 if not thousands of dollars.
 There aren't many ways to circumvent this if you want a true fencing experience,
-however a widely accepted practice is to fence unconnected, or to buy just
-the reels and lights.
+however a widely accepted practice is to buy just the reels and lights, or to
+fence without electrics.
 
-Fencing unconnected is a last resort, but with a good referee you can make
-it work.
-The key is for both fencers to be honest about their touches, which makes
-it perfect for club sessions.
-Referees here can either use their fingers, or edit a text file on their phone
+The bare minimum most would accept is a set of reels (wiring) and a light up box.
+This at least guarantees that when a touch is made, a light signal appears.
+Unfortunately this is still very expensive, and you still must keep track of
+score on your own.
+
+Fencing without electrics is a last resort, and a good referee makes it quite
+possible to evaluate accurately.
+Referees usually use their fingers, paper, or edit a text file on their phone
 to keep score.
 As you might probably guess, fingers are barely reliable.
 A text file is definitely a step up, but not without room for improvement!
 
-The bare minimum most would consider is a set of reels and a light up box.
-This at least guarantees that when a touch is made, a light signal appears.
+In my club, the idea of a phone app that helps keep score has
+floated around for ages.
+This would allow referees to focus less on their fingers and more on the game.
+An equally demanded tool is one that allows the organisation of in-house competitions.
+FencingTimeLive[]() is the standard for hosting fencing tournaments,
 
 ## Problems
 
