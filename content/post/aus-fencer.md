@@ -15,6 +15,7 @@ you get destroyed by a kid 7 years younger than you at your first competition.
 
 While I have an amazing ability to cry about fencing for hours,
 I'm not really here to talk about that.
+I want to walk you through a recent project I did that helped
 
 ## Fencing
 
@@ -64,9 +65,16 @@ refereeing a bout and storing that bout to create some friendly competition.
 
 ## Tech Overview and Stack
 
-Mapping out how to solve the problems is simple.
+I'll try not to go too deep into the technicalities of this project.
+This isn't a README, and I'm not a great blogger yet.
+
+Mapping out how to solve the problems was simple.
 We should expect referees to open some page on their phone, emulating a
 scoring remote.
+Once done, referees should be able to submit the scores,
+penalties and additional notes to the database.
+The data may be structured such that fencers are unique, allowing them to
+search themselves up and see which bouts or tournaments they were in.
 
 I decided to use C++ for our backend services, not because it was the most suitable
 but because I am currently trying to master it.
