@@ -1,5 +1,9 @@
 +++
-draft = true
+title = "Aus Fencer"
+description = "A web app for hosting fencing tournaments and more."
+date = "2026-08-08"
+menu = "main"
+author = "Benedict Setiawan"
 +++
 
 ## Introduction
@@ -15,7 +19,10 @@ you get destroyed by a kid 7 years younger than you at your first competition.
 
 While I have an amazing ability to cry about fencing for hours,
 I'm not really here to talk about that.
-I want to walk you through a recent project I did that helped
+
+I want to walk you through a recent project I did to help make fencing
+more accessible across the world. To start with, let's go through some
+basics of fencing.
 
 ## Fencing
 
@@ -61,18 +68,18 @@ refereeing a bout and storing that bout to create some friendly competition.
 | -------------- | --------------- |
 | If referees use their hands to keep score, they may lose track. | Provide an accessible UI on their phone to store bout information. |
 | Bouts in practice sessions don't get stored when wanted, which could help spot weaknesses and progress. | Automatically store finished bouts into a database, aggregating stats to give fencers a profile. |
-| Tournament sites may have poor signal, forcing hosts to write on paper to key in results. | This may require a phone app to run source code while offline, but sounds difficult. |
+| Tournament sites may have poor signal, forcing hosts to write on paper to key in results. | Requires a phone app to run source code while offline. This sounds difficult. |
 
 ## Tech Overview and Stack
 
 I'll try not to go too deep into the technicalities of this project.
-This isn't a README, and I'm not a great blogger yet.
+This isn't a README, though I do encourage you to try it out for yourself.
 
-Mapping out how to solve the problems was simple.
-We should expect referees to open some page on their phone, emulating a
-scoring remote.
-Once done, referees should be able to submit the scores,
-penalties and additional notes to the database.
+I started by mapping out what I expect users to see.
+For referees, we should expect them to open some page on their phone,
+emulating a scoring remote.
+Once done, the bout scores, penalties, and additional notes can be
+submitted to the database.
 The data may be structured such that fencers are unique, allowing them to
 search themselves up and see which bouts or tournaments they were in.
 

@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 09 Aug 2026 00:13:50 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Blog</title>
+				<link>http://localhost:1313/creating-a-new-theme/</link>
+				<pubDate>Sun, 09 Aug 2026 00:13:50 +0000</pubDate>
+				<guid>http://localhost:1313/creating-a-new-theme/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to start a blog, so I started one.&#xA;This is my first blog post, and I want to&#xA;use this chance to pave the way of my blogging journey.&#xA;I always thought it corny to write out my thoughts and show them to the world,&#xA;but maybe this is something I need right now.&lt;/p&gt;&#xA;&lt;p&gt;Whenever interviewers ask me &amp;ldquo;What is your biggest weakness?&amp;rdquo;&#xA;I always tell them: &amp;ldquo;I wait for a perfect idea that will never come.&amp;rdquo;&#xA;I never make something new because someone else has done it better.&#xA;I waste time learning best practices when what I know already works.&#xA;I never finish a project because I think it&amp;rsquo;s too messy, or slow.&#xA;I&amp;rsquo;m sick of waiting. This blog is my commitment to accepting small wins.&#xA;If I&amp;rsquo;m going to create something that I am truly proud of, I need to be&#xA;comfortable with failure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aus Fencer</title>
+				<link>http://localhost:1313/aus-fencer/</link>
+				<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/aus-fencer/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;insert picture of fencing here&lt;/p&gt;&#xA;&lt;p&gt;Fencing is an interesting sport.&#xA;First, you realise that you&amp;rsquo;ve never actually used your legs in your life.&#xA;Then, you spend years learning proper footwork, shedding blood and sweat and&#xA;incurring perpetual knee pain.&#xA;Finally, once you feel like you&amp;rsquo;re getting pretty good,&#xA;you get destroyed by a kid 7 years younger than you at your first competition.&lt;/p&gt;&#xA;&lt;p&gt;While I have an amazing ability to cry about fencing for hours,&#xA;I&amp;rsquo;m not really here to talk about that.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>My First Blog</title>
 				<link>http://localhost:1313/my-first-blog/</link>
