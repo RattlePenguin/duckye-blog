@@ -43,7 +43,7 @@ fence without electrics.
 
 The bare minimum most would accept is a set of reels (wiring) and a light up box.
 This at least guarantees that when a touch is made, a light signal appears.
-Unfortunately this is still very expensive, and you still must keep track of
+Unfortunately this is still very expensive, and you must keep track of
 score on your own.
 
 Fencing without electrics is a last resort, and a good referee makes it quite
@@ -57,10 +57,14 @@ In my club, the idea of a phone app that helps keep score has
 floated around for ages.
 This would allow referees to focus less on their fingers and more on the game.
 An equally demanded tool is one that allows the organisation of in-house competitions.
-FencingTimeLive[]() is the standard for hosting fencing tournaments, but it has
+[FencingTimeLive](https://www.fencingtimelive.com) is the standard for hosting fencing tournaments, but it has
 a yearly cost and feels a little bit dated.
-I thought I would try my hand at combining the two, creating a seamless link between
-refereeing a bout and storing that bout to create some friendly competition.
+During my exchange semester at UT Austin, I also took notice of a US-specific website called [FencingTracker](https://fencingtracker.com).
+In fact, [I'm on there](https://fencingtracker.com/p/101785318/Benedict-Setiawan)!
+This stores fencer-specific data which outlines competitions and clubs you've participated in.
+
+I thought I would try my hand at combining the three, creating a seamless link between
+refereeing a bout, storing that bout as data and linking it to fencers within Australia.
 
 ## Problems
 
@@ -68,6 +72,7 @@ refereeing a bout and storing that bout to create some friendly competition.
 | -------------- | --------------- |
 | If referees use their hands to keep score, they may lose track. | Provide an accessible UI on their phone to store bout information. |
 | Bouts in practice sessions don't get stored when wanted, which could help spot weaknesses and progress. | Automatically store finished bouts into a database, aggregating stats to give fencers a profile. |
+| Tournament hosting requires a FencingTimeLive subscription, which may be unsustainable for practice sessions. | Create a tournament hosting feature. Storing official licenses can be added later. |
 | Tournament sites may have poor signal, forcing hosts to write on paper to key in results. | Requires a phone app to run source code while offline. This sounds difficult. |
 
 ## Tech Overview and Stack
@@ -102,3 +107,6 @@ The core problem at hand is less about the ability to track bouts.
 In most cases, it's not acceptable to fence without electrics, so
 we should be trying to create a cheaper, broader alternative to
 standard brands like Favero.
+
+Instead of creating a specialised device to act as a scoreboard, I want to see
+if fencing equipment can be hooked up directly to a laptop.
