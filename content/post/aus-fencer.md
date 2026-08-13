@@ -6,6 +6,8 @@ menu = "main"
 author = "Benedict Setiawan"
 +++
 
+## [GitHub Link](https://github.com/RattlePenguin/ausfencer.git)
+
 ## Introduction
 
 insert picture of fencing here
@@ -39,7 +41,7 @@ The issue is, for many clubs buying scoring kits can cost upwards of hundreds
 if not thousands of dollars.
 There aren't many ways to circumvent this if you want a true fencing experience,
 however a widely accepted practice is to buy just the reels and lights, or to
-fence without electrics.
+fence without electrics. At [UNSW's Fencing Club](https://www.instagram.com/unswfencing/), we do that quite often.
 
 The bare minimum most would accept is a set of reels (wiring) and a light up box.
 This at least guarantees that when a touch is made, a light signal appears.
@@ -66,7 +68,7 @@ This stores fencer-specific data which outlines competitions and clubs you've pa
 I thought I would try my hand at combining the three, creating a seamless link between
 refereeing a bout, storing that bout as data and linking it to fencers within Australia.
 
-## Problems
+## Problem Summary
 
 | Problem | Solution |
 | -------------- | --------------- |
@@ -110,3 +112,10 @@ standard brands like Favero.
 
 Instead of creating a specialised device to act as a scoreboard, I want to see
 if fencing equipment can be hooked up directly to a laptop.
+A laptop is much more accessible, and it seems like the bottleneck is converting
+electrical signals from the three-prong plugs into data we can read.
+If we can do that, then all we need is an adapter that connects two three-prong
+plugs and our USB-A socket.
+This should be much cheaper and easier than building a whole device to do everything,
+but I may be underestimating the technical skill required to do so.
+For now, I encourage you to try AusFencer for yourself [here](https://github.com/RattlePenguin/ausfencer.git)!

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on My New Hugo Project</title>
+		<title>Posts on Duckye&#39;s Blog</title>
 		<link>http://localhost:1313/post/</link>
-		<description>Recent content in Posts on My New Hugo Project</description>
+		<description>Recent content in Posts on Duckye&#39;s Blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Repository Patterns in Databases</title>
+				<link>http://localhost:1313/repository-pattern/</link>
+				<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/repository-pattern/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to start a blog, so I started one.&#xA;This is my first blog post, and I want to&#xA;use this chance to pave the way of my blogging journey.&#xA;I always thought it corny to write out my thoughts and show them to the world,&#xA;but maybe this is something I need right now.&lt;/p&gt;&#xA;&lt;p&gt;Whenever interviewers ask me &amp;ldquo;What is your biggest weakness?&amp;rdquo;&#xA;I always tell them: &amp;ldquo;I wait for a perfect idea that will never come.&amp;rdquo;&#xA;I never make something new because someone else has done it better.&#xA;I waste time learning best practices when what I know already works.&#xA;I never finish a project because I think it&amp;rsquo;s too messy, or slow.&#xA;I&amp;rsquo;m sick of waiting. This blog is my commitment to accepting small wins.&#xA;If I&amp;rsquo;m going to create something that I am truly proud of, I need to be&#xA;comfortable with failure.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Should You Separate Home and Work PC Environments?</title>
 				<link>http://localhost:1313/desktop-arch/</link>
@@ -28,11 +35,18 @@
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I wanted to start a blog, so I started one.&#xA;This is my first blog post, and I want to&#xA;use this chance to pave the way of my blogging journey.&#xA;I always thought it corny to write out my thoughts and show them to the world,&#xA;but maybe this is something I need right now.&lt;/p&gt;&#xA;&lt;p&gt;Whenever interviewers ask me &amp;ldquo;What is your biggest weakness?&amp;rdquo;&#xA;I always tell them: &amp;ldquo;I wait for a perfect idea that will never come.&amp;rdquo;&#xA;I never make something new because someone else has done it better.&#xA;I waste time learning best practices when what I know already works.&#xA;I never finish a project because I think it&amp;rsquo;s too messy, or slow.&#xA;I&amp;rsquo;m sick of waiting. This blog is my commitment to accepting small wins.&#xA;If I&amp;rsquo;m going to create something that I am truly proud of, I need to be&#xA;comfortable with failure.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>My First Linux</title>
+				<link>http://localhost:1313/my-first-linux/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-first-linux/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Last week, I finally made the decision to dual-boot Linux with Windows.&#xA;This had been on my mind for a while, but it wasn&amp;rsquo;t because Linux was better&#xA;or because I cared about privacy or anything novel like that.&#xA;I did it purely for fun. Let me tell you all about it!&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;One of my good friends, Ronnie, is really into Linux.&#xA;We share a class together, and sometimes he would show me all the cool things&#xA;he could do on his laptop, like &lt;a href=&#34;https://tmux.app/&#34;&gt;terminal multiplexing&lt;/a&gt; and &lt;a href=&#34;https://github.com/niri-wm/niri&#34;&gt;scrollable windows&lt;/a&gt;.&#xA;&amp;ldquo;So what?&amp;rdquo; I thought. Windows was all I knew, and &lt;a href=&#34;https://learn.microsoft.com/en-us/windows/wsl/about&#34;&gt;WSL&lt;/a&gt; worked fine for my needs.&#xA;Yeah it was a kinda slow, and network issues always happen in WSL, but at least&#xA;I didn&amp;rsquo;t have to do anything from scratch&amp;hellip;&#xA;Wait, why is that a bad thing?&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Aus Fencer</title>
 				<link>http://localhost:1313/aus-fencer/</link>
 				<pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/aus-fencer/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;insert picture of fencing here&lt;/p&gt;&#xA;&lt;p&gt;Fencing is an interesting sport.&#xA;First, you realise that you&amp;rsquo;ve never actually used your legs in your life.&#xA;Then, you spend years learning proper footwork, shedding blood and sweat and&#xA;incurring perpetual knee pain.&#xA;Finally, once you feel like you&amp;rsquo;re getting pretty good,&#xA;you get destroyed by a kid 7 years younger than you at your first competition.&lt;/p&gt;&#xA;&lt;p&gt;While I have an amazing ability to cry about fencing for hours,&#xA;I&amp;rsquo;m not really here to talk about that.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;github-link&#34;&gt;&lt;a href=&#34;https://github.com/RattlePenguin/ausfencer.git&#34;&gt;GitHub Link&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;insert picture of fencing here&lt;/p&gt;&#xA;&lt;p&gt;Fencing is an interesting sport.&#xA;First, you realise that you&amp;rsquo;ve never actually used your legs in your life.&#xA;Then, you spend years learning proper footwork, shedding blood and sweat and&#xA;incurring perpetual knee pain.&#xA;Finally, once you feel like you&amp;rsquo;re getting pretty good,&#xA;you get destroyed by a kid 7 years younger than you at your first competition.&lt;/p&gt;&#xA;&lt;p&gt;While I have an amazing ability to cry about fencing for hours,&#xA;I&amp;rsquo;m not really here to talk about that.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My First Blog</title>

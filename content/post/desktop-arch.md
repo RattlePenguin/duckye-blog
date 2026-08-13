@@ -1,6 +1,6 @@
 +++
 title = "Should You Separate Home and Work PC Environments?"
-description = "It's all over the place."
+description = "Alt+Tab demon."
 date = "2026-08-10"
 menu = "main"
 author = "Benedict Setiawan"
@@ -37,4 +37,4 @@ something like logging into a new user profile may put you in
 the right mindset.
 
 For those of you that have problems focusing on work at home,
-do you do something similar?
+do you do something similar? Let me know!

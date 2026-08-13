@@ -1,19 +1,19 @@
 baseURL = 'https://example.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "Duckye's Blog"
 theme = "ghostwriter"
 
 [Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
-    opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+mainSections = ["post"]
+intro = true
+headline = "Duckye's Blog"
+description = "From huge achievements to random thoughts"
+github = "https://github.com/RattlePenguin"
+twitter = "https://twitter.com/RattlePenguin"
+email = "pkgay9@gmail.com"
+opengraph = true
+shareTwitter = true
+dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/:contentbasename/"
+post = "/:contentbasename/"

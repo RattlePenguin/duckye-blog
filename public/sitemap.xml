@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/repository-pattern/</loc>
+    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/desktop-arch/</loc>
     <lastmod>2026-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/creating-a-new-theme/</loc>
     <lastmod>2026-08-09T00:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-first-linux/</loc>
+    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aus-fencer/</loc>
     <lastmod>2026-08-08T00:00:00+00:00</lastmod>
