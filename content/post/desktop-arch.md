@@ -13,12 +13,12 @@ Rah!!!
 
 ## Secret Purpose
 
-In case you didn't know, I am severely addicted to video games.
+In case you didn't know, I love video games. Maybe a little too much.
 Every time I do work on my home PC, the temptation
 of launching [DoS2](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/) calls to me like the Green Goblin mask.
 This was a problem as not only was it a major distraction,
 it eventually conditioned me to become unable to do work at home.
-With the pressure of studies, job-hunting, and projects building up,
+With the workload of studies and projects building up,
 I decided it was time to stop being a bum.
 
 The solution is simple.
