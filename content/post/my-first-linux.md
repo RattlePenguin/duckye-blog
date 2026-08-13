@@ -13,6 +13,8 @@ This had been on my mind for a while, but it wasn't because Linux was better
 or because I cared about privacy or anything novel like that.
 I did it purely for fun. Let me tell you all about it!
 
+![Linux is inevitable](/images/toystorywheezy.jpg)
+
 ## Motivation
 
 One of my good friends, Ronnie, is really into Linux.
@@ -42,7 +44,7 @@ from flashing the USB to connecting to the internet via `iwctl`.
 I don't know how people do it, but the [Arch](https://wiki.archlinux.org/title/Main_page) wiki's installation steps are way
 too confusing.
 
-P.S. i use arch, btw
+I use arch, btw
 
 I decided to use all of the settings shown in the video tutorial,
 which was mainly the [KDE Plasma](https://kde.org/plasma-desktop/) desktop environment.
