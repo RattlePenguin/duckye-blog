@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = '/'
 locale = 'en-us'
 title = "Duckye's Blog"
 theme = "ghostwriter"
