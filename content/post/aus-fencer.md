@@ -95,12 +95,14 @@ but because I am currently trying to master it.
 C#, Java or Go may be more worthwhile to ease the use of dependencies.
 Many high performance web server stacks still use C++ frameworks, but we
 likely won't observe the benefits of such speed.
-Though, this might pay off in the future if I decide to extend this project
+Another reason to use C++ is if I decide to extend this project
 into the low-latency fencing equipment hardware.
 
-For the server side, I used C++ libraries
-Sqlite3[]() and SqliteCpp[](), Crow[](), and nlohmann/json[]()
-to manage the database, HTTP server and API.
+For the server side, I used external C++ libraries
+[Crow](), [SQLite](), and [SQLite_ORM]()
+to manage the HTTP server, API, and database.
+
+## Trying It Out
 
 ## Next Project
 
