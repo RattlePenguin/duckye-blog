@@ -9,4 +9,4 @@ draft = "true"
 
 ## Introduction
 
-In my recent project [AusFencer](/aus-fencer),
+In my recent project [AusFencer](/aus-fencer), I was introduced to a new
