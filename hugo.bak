@@ -1,0 +1,19 @@
+baseURL = '/'
+locale = 'en-us'
+title = "Duckye's Blog"
+theme = "ghostwriter"
+
+[Params]
+mainSections = ["post"]
+intro = true
+headline = "Duckye's Blog"
+description = "From life achievements to random thoughts"
+github = "https://github.com/RattlePenguin"
+twitter = "https://twitter.com/RattlePenguin"
+email = "benedict.viggo@gmail.com"
+opengraph = true
+shareTwitter = true
+dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+post = "/:contentbasename/"

@@ -75,7 +75,7 @@ In the end, this was a fun experiment for me to see what dual-booting was like!
 ## End
 
 Although my system is working great now, there is still so much to learn.
-Until two weeks ago, I didn't know that Linux was the **kernel**,
+Until two weeks ago, I didn't know that Linux was the kernel,
 not the operating system.
 As I continue my Linux journey, I am sure I will find many more programs
 that I never knew existed.
