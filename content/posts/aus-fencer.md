@@ -9,7 +9,7 @@ author = "Benedict Setiawan"
 
 ## Introduction
 
-insert picture of fencing here
+![The goat](/images/ohsanguk.jpg)
 
 Fencing is an interesting sport.
 First, you realise that you've never actually used your legs in your life.
@@ -33,8 +33,6 @@ The referee plays a significant role in determining which fencer is awarded
 the point, as well as keeping track of score and penalties.
 This is normally done by looking at an electric scoreboard which lights up
 when either fencer lands a hit, and using a remote to interact with it.
-
-insert picture of favero
 
 The issue is, for many clubs buying scoring kits can cost upwards of hundreds
 if not thousands of dollars.
@@ -98,7 +96,7 @@ Another reason to use C++ is if I decide to extend this project
 into the low-latency fencing equipment hardware.
 
 For the server side, I used external C++ libraries
-[Crow](), [SQLite](), and [SQLite_ORM]()
+[Crow](https://github.com/CrowCpp/Crow), [SQLite](https://sqlite.org/index.html), and [SQLite_ORM](https://github.com/fnc12/sqlite_orm)
 to manage the HTTP server, API, and database.
 
 ## Trying It Out
