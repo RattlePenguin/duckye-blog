@@ -2,7 +2,6 @@
 title = "My First Linux"
 description = "First time for everything."
 date = "2026-08-09"
-menu = "main"
 author = "Benedict Setiawan"
 +++
 

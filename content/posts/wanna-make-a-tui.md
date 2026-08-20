@@ -2,7 +2,6 @@
 title = "TUI Obsession"
 description = "Wanting to make a TUI."
 date = "2026-08-17"
-menu = "main"
 author = "Benedict Setiawan"
 draft = true
 +++

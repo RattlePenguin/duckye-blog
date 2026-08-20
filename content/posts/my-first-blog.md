@@ -2,7 +2,6 @@
 title = "My First Blog"
 description = "Welcome to my blog!"
 date = "2026-08-08"
-menu = "main"
 author = "Benedict Setiawan"
 +++
 

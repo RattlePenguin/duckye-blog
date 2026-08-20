@@ -2,7 +2,6 @@
 title = "Should You Separate Home and Work PC Environments?"
 description = "Alt+Tab demon."
 date = "2026-08-10"
-menu = "main"
 author = "Benedict Setiawan"
 +++
 
