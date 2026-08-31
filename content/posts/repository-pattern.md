@@ -1,6 +1,6 @@
 +++
 title = "Repository Patterns in Databases"
-description = "How the repository pattern can help you structure your data"
+description = "GitHub Repository?"
 date = "2026-08-13"
 author = "Benedict Setiawan"
 draft = "true"
