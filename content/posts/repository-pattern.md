@@ -26,12 +26,12 @@ Foreseeing a very messy future, I decided to approach this differently.
 This ends up covering many strong principles in programming, particularly
 encapsulation and modularisation.
 By separating
-This also gives rise to the Single Responsibility Principle,
+This also gives rise to the [Single Responsibility Principle](),
 where each function or method should just do one thing, and do it well.
 Without the repository, a function that pulls Fencers from the database
 would not only need the correct SQL query,
 it would also have to format it into JSON, resolve errors, and
-package the HTTP response.
+package a valid HTTP response.
 
 ## Conclusion
 
@@ -42,4 +42,15 @@ handling every request for data, things can get out of hand
 quickly.
 The best part is, this isn't limited to databases.
 I extended this to HTTP handlers, which is a similar concept where
-instead of data, the handler encapsulates
+instead of data, the handler encapsulates the work done between
+processing the request and producing the response.
+
+Previously, our program flow looked like this:
+request -> server \[big ahh block of code\] + database
+response <-
+
+request -> server <-> handler <-> repository <-> manager <-> database
+response <-
+
+It might look more complex, but this lets us figure out where exactly errors
+are occurring, and if we ever wanted to insert more middleware this is much easier!
