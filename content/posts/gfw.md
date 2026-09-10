@@ -3,7 +3,6 @@ title = "The Great Firewall of China"
 description = "Made in Japan"
 date = "2026-08-30"
 author = "Benedict Setiawan"
-draft = true
 +++
 
 ## Introduction
